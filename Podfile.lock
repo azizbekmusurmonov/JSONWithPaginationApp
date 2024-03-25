@@ -1,0 +1,22 @@
+PODS:
+  - SDWebImage (5.19.0):
+    - SDWebImage/Core (= 5.19.0)
+  - SDWebImage/Core (5.19.0)
+  - SDWebImageSwiftUI (3.0.0):
+    - SDWebImage (~> 5.10)
+
+DEPENDENCIES:
+  - SDWebImageSwiftUI
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+    - SDWebImageSwiftUI
+
+SPEC CHECKSUMS:
+  SDWebImage: 981fd7e860af070920f249fd092420006014c3eb
+  SDWebImageSwiftUI: d0d08ec194f578d184daad619af34260bfbf100c
+
+PODFILE CHECKSUM: 82643f59a2db6afa6487abb0ef48ef5144616ecb
+
+COCOAPODS: 1.15.2
